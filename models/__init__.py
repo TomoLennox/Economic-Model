@@ -1,0 +1,3 @@
+"""
+Economic models package.
+"""
