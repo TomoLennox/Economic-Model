@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Economic Model
 
 A comprehensive economic modeling project.
@@ -46,3 +47,7 @@ economic-model/
 ## License
 
 [Add your license here]
+=======
+# Economic-Model
+Simple game to teach how the economy works
+>>>>>>> e73504540081696f2e9efa3d94a6f5634a27b241
